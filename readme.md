@@ -7,7 +7,7 @@ This program is made by niceRAM,and this is modified from andrewalc's MidiParser
 
 # usages
 
-1. If you need custom a template for convert result, input it in the textarea;
+1. If you need to customize a template for converting,edit it in the textarea please;
 2. Click the "choose MIDI" button to choose MIDI you wander analyzing;
 3. The exported file will be created at the same path as your midi-file's. 
 
@@ -24,7 +24,7 @@ This program is made by niceRAM,and this is modified from andrewalc's MidiParser
 
 # 使用说明
 
-1. 如果你需要自定义转换结果的模板，请在textarea中输入;
+1. 如果你需要自定义转换模板，在文本框中编辑即可;
 2. 点击“选择MIDI”按钮选择要漫游分析的MIDI;
 3. 转换完成的文件将在midi文件相同的路径下生成。
 
